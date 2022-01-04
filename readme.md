@@ -4,7 +4,7 @@
 
 ## Running the Application
 
-1. Clone the repository
+1. Clone the repository, then open your python terminal
 
 2. _(optional)_ Setup your virtual ENV
 

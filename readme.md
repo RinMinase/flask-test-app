@@ -11,7 +11,7 @@
 3. Install the dependencies
 
   ```
-  pip install
+  pip install -r requirements.txt
   ```
 
 4. _(on Windows)_ Run the Web Server
